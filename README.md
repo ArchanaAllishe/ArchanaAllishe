@@ -41,9 +41,11 @@ An end-to-end paired-end RNA-seq analysis workflow designed around
 **Technologies:** `RNA-seq` · `Linux` · `Python` · `R/Bioconductor` · `DESeq2` ·
 `Nextflow` · `Docker` · `Git/GitHub` · `Quarto`
 
-[**View Project →**](https://github.com/ArchanaAllishe/bioinformatics-analysis-workflows)
-
-[**View Interactive Report →**](https://archanaallishe.github.io/bioinformatics-analysis-workflows/)
+**Explore the Project:**  
+[Full Repository](https://github.com/ArchanaAllishe/bioinformatics-analysis-workflows) ·
+[Interactive Report](https://archanaallishe.github.io/bioinformatics-analysis-workflows/) ·
+[Analysis Scripts](https://github.com/ArchanaAllishe/bioinformatics-analysis-workflows/tree/main/scripts) ·
+[Nextflow Pipeline](https://github.com/ArchanaAllishe/bioinformatics-analysis-workflows/tree/main/workflow)
 
 ---
 
