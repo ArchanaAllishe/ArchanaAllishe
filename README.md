@@ -22,21 +22,23 @@ AI-assisted data exploration.
 
 ### Reproducible RNA-Seq Analysis Pipeline
 
-An end-to-end paired-end RNA-seq analysis workflow designed around
-**reproducibility, automation, and transparent reporting**.
+This project is based on paired-end RNA-seq analysis I performed while working with the Molecular Bioinformatics Core at the University of Tennessee Health Science Center (UTHSC) for a research project involving uveal melanoma patient-derived xenograft (PDX) samples across experimental conditions.
 
-**Highlights**
-- Performed raw sequencing quality assessment using FastQC and MultiQC.
-- Processed paired-end RNA-seq data through alignment and gene-level
-  quantification.
-- Conducted differential expression analysis and downstream biological
-  interpretation.
-- Generated PCA, sample-correlation, volcano, MA, and functional enrichment
-  visualizations.
-- Automated the computational workflow using Nextflow.
-- Used containerized software environments to improve reproducibility.
-- Developed an interactive Quarto report integrating methods, quality control,
-  analysis results, and interpretation.
+Because the original research data are unpublished and confidential, I used a publicly available paired-end RNA-seq dataset to create a shareable version of the analysis. The project follows the same core analysis approach, with reusable scripts, Nextflow automation, Docker environments, and an interactive Quarto report to provide a reproducible end-to-end example of the workflow.
+
+**Analysis includes:**
+- Raw sequencing quality assessment with FastQC and MultiQC
+- Paired-end read alignment and alignment quality assessment
+- Gene-level expression quantification
+- Differential expression analysis with DESeq2
+- PCA and sample-correlation analysis
+- Volcano and MA plots
+- Functional enrichment and biological interpretation
+- Reusable analysis scripts
+- Pipeline automation with Nextflow
+- Containerized environments with Docker
+- Interactive reporting with Quarto
+
 
 **Technologies:** `RNA-seq` · `Linux` · `Python` · `R/Bioconductor` · `DESeq2` ·
 `Nextflow` · `Docker` · `Git/GitHub` · `Quarto`
