@@ -65,7 +65,6 @@ and genome-browser validation.
 **Focus:** `ATAC-seq` · `Chromatin Accessibility` · `Peak Calling` ·
 `TSS Analysis` · `Genomic Annotation` · `Functional Enrichment` · `IGV`
 
----
 
 ### Single-Cell RNA-Seq Analysis
 
@@ -79,7 +78,6 @@ characterization, differential expression, and biological interpretation.
 **Focus:** `scRNA-seq` · `Single-Cell QC` · `Normalization` · `PCA` · `UMAP` ·
 `Clustering` · `Marker Genes` · `Cell-Type Characterization`
 
----
 
 ### gRNA Library Design & CRISPR Screen Analysis
 
@@ -94,7 +92,6 @@ interpretation.
 **Focus:** `CRISPR` · `gRNA Design` · `Guide Selection` · `Screen Analysis` ·
 `Guide-Level QC` · `Gene-Level Analysis` · `Candidate Prioritization`
 
----
 
 ### Clinical Genomic Variant Analysis Dashboard
 
@@ -108,7 +105,6 @@ interactive web interface for variant exploration.
 **Planned Stack:** `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` ·
 `Pydantic` · `REST APIs` · `React` · `Vite` · `Docker`
 
----
 
 ### AI-Assisted NGS Data Explorer
 
@@ -148,10 +144,20 @@ Linux · HPC · Nextflow · Docker · Git/GitHub · Quarto
 
 ---
 
-## 📚 Selected Publications
+## 📚 Research Publications
 
-- **Hsu F-M, et al.** (2018). *Dynamics of the Methylome and Transcriptome during the Regeneration of Rice.* **Epigenomes, 2(3), 14.**  
-  DOI: 10.3390/epigenomes2030014
+- Bourguet P, Yelagandula R, To TK, Osakabe A, **Allishe A**, Lu RJ-H,
+  Kakutani T, Chen P-Y, Berger F. (2022).  
+  *The histone variant H2A.W cooperates with chromatin modifications and linker
+  histone H1 to maintain transcriptional silencing of transposons in Arabidopsis.*  
+  **bioRxiv.** [https://doi.org/10.1101/2022.05.31.493688](https://doi.org/10.1101/2022.05.31.493688)
 
-- **Bourguet P, et al.** (2022). *H2A.W histone variant...* **bioRxiv.**  
-  DOI: 10.1101/2022.05.31.493688
+- Hsu F-M, Gohain M, **Allishe A**, Huang Y-J, Liao J-L, Kuang L-Y,
+  Chen P-Y. (2018).  
+  *Dynamics of the Methylome and Transcriptome during the Regeneration of Rice.*  
+  **Epigenomes, 2(3), 14.** [https://doi.org/10.3390/epigenomes2030014](https://doi.org/10.3390/epigenomes2030014)
+---
+
+## 🎯 Research Interests
+
+**Computational Genomics · Functional Genomics · AI-Assisted Genomic Data Analysis**
