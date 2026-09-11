@@ -79,7 +79,7 @@ characterization, differential expression, and biological interpretation.
 `Clustering` · `Marker Genes` · `Cell-Type Characterization`
 
 
-### gRNA Library Design & CRISPR Screen Analysis
+### CRISPR gRNA Library Design & Screening Data Analysis
 
 A computational workflow connecting gRNA library design with downstream
 analysis of pooled CRISPR screening data.
