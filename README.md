@@ -148,6 +148,10 @@ Linux · HPC · Nextflow · Docker · Git/GitHub · Quarto
 
 ---
 
-## 🎯 Research Interests
+## 📚 Selected Publications
 
-**Computational Genomics · Functional Genomics · AI-Assisted Genomic Data Analysis**
+- **Hsu F-M, et al.** (2018). *Dynamics of the Methylome and Transcriptome during the Regeneration of Rice.* **Epigenomes, 2(3), 14.**  
+  DOI: 10.3390/epigenomes2030014
+
+- **Bourguet P, et al.** (2022). *H2A.W histone variant...* **bioRxiv.**  
+  DOI: 10.1101/2022.05.31.493688
