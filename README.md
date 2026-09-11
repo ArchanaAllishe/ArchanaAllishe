@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**ArchanaAllishe/ArchanaAllishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Archana Allishe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Computational Biology | Bioinformatics | Genomic Data Analysis
+
+I am a computational biology and bioinformatics professional with experience
+analyzing next-generation sequencing data and developing reproducible workflows
+for genomic data analysis.
+
+My work focuses on RNA-seq, ATAC-seq, and other genomic data, with an emphasis
+on reproducible analysis, Linux/HPC computing, workflow automation, and
+bioinformatics software development.
