@@ -22,9 +22,9 @@ AI-assisted data exploration.
 
 ### Reproducible RNA-Seq Analysis Pipeline
 
-This project is based on paired-end RNA-seq analysis I performed while working with the Molecular Bioinformatics Core at the University of Tennessee Health Science Center (UTHSC) for a research project involving uveal melanoma patient-derived xenograft (PDX) samples across experimental conditions.
+This project is based on paired-end RNA-seq analysis I performed while working with the Molecular Bioinformatics Core at the University of Tennessee Health Science Center (UTHSC). The original work involved uveal melanoma patient-derived xenograft (PDX) samples across experimental conditions.
 
-Because the original research data are unpublished and confidential, I used a publicly available paired-end RNA-seq dataset to create a shareable version of the analysis. The project follows the same core analysis approach, with reusable scripts, Nextflow automation, Docker environments, and an interactive Quarto report to provide a reproducible end-to-end example of the workflow.
+Because the research data are unpublished and confidential, I used a publicly available paired-end RNA-seq dataset to create a shareable version of the analysis. The project follows the same core analysis approach, with reusable scripts, Nextflow automation, Docker environments, and an interactive Quarto report to demonstrate a reproducible end-to-end workflow.
 
 **Analysis includes:**
 - Raw sequencing quality assessment with FastQC and MultiQC
