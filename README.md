@@ -18,9 +18,9 @@ AI-assisted data exploration.
 
 ---
 
-## 🧬 Featured Project
+## 🧬 FEATURED PROJECTS
 
-### Reproducible RNA-Seq Analysis Pipeline
+## Reproducible RNA-Seq Analysis Pipeline
 
 This project is based on paired-end RNA-seq analysis I performed while working with the Molecular Bioinformatics Core at the University of Tennessee Health Science Center (UTHSC). The original work involved uveal melanoma patient-derived xenograft (PDX) samples across experimental conditions.
 
@@ -50,9 +50,7 @@ Because the research data are unpublished and confidential, I used a publicly av
 [Nextflow Pipeline](https://github.com/ArchanaAllishe/bioinformatics-analysis-workflows/tree/main/workflow)
 
 ---
-### Comprehensive Single-Cell RNA-Seq Analysis
-
-## Single-Cell RNA-Seq Analysis
+## Comprehensive Single-Cell RNA-Seq Analysis
 
 This project is based on single-cell RNA-seq analysis I worked through while gaining hands-on experience with single-cell analysis workflows at the Molecular Bioinformatics Core at the University of Tennessee Health Science Center (UTHSC).
 
