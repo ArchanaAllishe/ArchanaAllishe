@@ -50,7 +50,7 @@ Because the research data are unpublished and confidential, I used a publicly av
 [Nextflow Pipeline](https://github.com/ArchanaAllishe/bioinformatics-analysis-workflows/tree/main/workflow)
 
 ---
-## Comprehensive Single-Cell RNA-Seq Analysis
+## Comprehensive Single-Cell RNA-Seq (scRNA-Seq) Analysis
 
 This project is based on single-cell RNA-seq analysis I worked through while gaining hands-on experience with single-cell analysis workflows at the Molecular Bioinformatics Core at the University of Tennessee Health Science Center (UTHSC).
 
