@@ -50,8 +50,37 @@ Because the research data are unpublished and confidential, I used a publicly av
 [Nextflow Pipeline](https://github.com/ArchanaAllishe/bioinformatics-analysis-workflows/tree/main/workflow)
 
 ---
+### Comprehensive Single-Cell RNA-Seq Analysis
 
-## 🔬 Projects in Development
+## Single-Cell RNA-Seq Analysis
+
+This project is based on single-cell RNA-seq analysis I worked through while gaining hands-on experience with single-cell analysis workflows at the Molecular Bioinformatics Core at the University of Tennessee Health Science Center (UTHSC).
+
+I used the publicly available **GSE128243** 10x Genomics dataset containing human peripheral-blood NKT cells from three unstimulated and three PMA/ionomycin-stimulated samples. The project follows the complete workflow from raw sequencing data through Cell Ranger processing, cell-level quality control, transcriptional-state analysis, pseudobulk differential expression, and biological interpretation. The analysis recovered the major stimulation-associated biological patterns reported in the original study.
+
+**Analysis includes:**
+
+- Raw sequencing data preparation and quality assessment with FastQC and MultiQC
+- Cell Ranger alignment and gene-expression matrix generation
+- Cell-level quality control and filtering
+- Doublet detection with scDblFinder
+- Normalization and highly variable gene selection
+- PCA, graph-based clustering, and UMAP visualization
+- Cluster marker-gene analysis
+- Sample and condition-level assessment
+- Pseudobulk differential expression with DESeq2
+- Functional enrichment and biological interpretation
+- Reusable analysis scripts
+- Interactive reporting with Quarto
+
+**Technologies:** `scRNA-seq` · `10x Genomics` · `Cell Ranger` · `Seurat` · `R/Bioconductor` · `scDblFinder` · `DESeq2` · `Python` · `Linux` · `Git/GitHub` · `Quarto`
+
+**Explore the Project:**\
+[Full Repository](https://github.com/ArchanaAllishe/single-cell-rna-seq-analysis) · [Interactive Report](https://archanaallishe.github.io/single-cell-rna-seq-analysis/) · [Analysis Scripts](https://github.com/ArchanaAllishe/single-cell-rna-seq-analysis/tree/main/scripts)
+
+
+---
+## 🔬 CURRENTLY WORKING PROJECTS
 
 *The following computational genomics projects are under active development
 and will be made publicly available upon completion.*
@@ -68,20 +97,6 @@ and genome-browser validation.
 
 **Focus:** `ATAC-seq` · `Chromatin Accessibility` · `Peak Calling` ·
 `TSS Analysis` · `Genomic Annotation` · `Functional Enrichment` · `IGV`
-
-
-### Single-Cell RNA-Seq Analysis
-
-A reproducible workflow for investigating cellular heterogeneity using
-single-cell transcriptomic data.
-
-The analysis covers single-cell quality control, filtering, normalization,
-dimensionality reduction, clustering, marker-gene analysis, cell-type
-characterization, differential expression, and biological interpretation.
-
-**Focus:** `scRNA-seq` · `Single-Cell QC` · `Normalization` · `PCA` · `UMAP` ·
-`Clustering` · `Marker Genes` · `Cell-Type Characterization`
-
 
 ### CRISPR gRNA Library Design & Screening Data Analysis
 
